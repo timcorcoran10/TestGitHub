@@ -1,4 +1,3 @@
-TestGitHub
 TestGitHub is a repository showing how to use GitHub
 
 
